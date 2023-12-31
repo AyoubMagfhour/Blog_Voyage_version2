@@ -1,0 +1,4 @@
+com.example.user.controller.UserController#login(Lcom/example/user/entities/User;)LResponseEntity;
+null
+==
+authenticateSuperuser com.example.user.service.UserService#authenticateSuperuser(Ljava/lang/String;Ljava/lang/String;)Lcom/example/user/entities/User;

@@ -1,0 +1,4 @@
+com.example.user.controller.UserController#updatePassword2(Ljava/lang/Long;Lcom/example/user/entities/User;)LResponseEntity;
+null
+==
+updateUser com.example.user.service.UserService#updateUser(Ljava/lang/Long;Lcom/example/user/entities/User;)Lcom/example/user/entities/User;

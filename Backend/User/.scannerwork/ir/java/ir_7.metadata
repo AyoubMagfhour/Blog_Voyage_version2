@@ -1,0 +1,3 @@
+com.example.user.controller.UserController#getAllUsers()Ljava/util/List;
+==
+getAllUsers com.example.user.service.UserService#getAllUsers()Ljava/util/List;

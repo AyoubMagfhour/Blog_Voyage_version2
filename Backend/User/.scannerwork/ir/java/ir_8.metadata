@@ -1,0 +1,4 @@
+com.example.user.controller.UserController#getUserById(Ljava/lang/Long;)LResponseEntity;
+java.util.Optional#map(Ljava/util/function/Function;)Ljava/util/Optional;
+==
+getUserById com.example.user.service.UserService#getUserById(Ljava/lang/Long;)Ljava/util/Optional;

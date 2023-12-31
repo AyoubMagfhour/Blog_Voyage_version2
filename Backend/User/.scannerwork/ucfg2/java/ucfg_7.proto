@@ -1,0 +1,16 @@
+
+qcom.example.user.service.UserService#createUser(Lcom/example/user/entities/User;)Lcom/example/user/entities/User;h
+^/C:/Users/ayoub/Desktop/backfinal/User/src/main/java/com/example/user/service/UserService.java! !("1*Ã
+1" "(Ÿ
+œ
+" "(0
+%0*com.example.user.repository.UserRepository"__id*X
+
+__unknown_file (<*:&
+$com.example.user.service.UserService"
+userRepository"
+" "()
+"":2
+! !($&
+usercom.example.user.entities.UserB(&
+$com.example.user.service.UserServiceH

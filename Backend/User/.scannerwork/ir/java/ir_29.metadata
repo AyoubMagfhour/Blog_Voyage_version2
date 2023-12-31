@@ -1,0 +1,1 @@
+com.example.user.service.UserService#updatePassword(Ljava/lang/Long;Ljava/lang/String;)Lcom/example/user/entities/User;

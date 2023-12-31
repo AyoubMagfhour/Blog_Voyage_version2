@@ -1,0 +1,3 @@
+com.example.user.controller.UserController#sendemail(Ljava/lang/String;I)V
+==
+sendemail com.example.user.service.UserService#sendemail(Ljava/lang/String;I)V

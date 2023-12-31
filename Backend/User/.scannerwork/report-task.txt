@@ -1,0 +1,7 @@
+organization=blog
+projectKey=blog_user
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.51767
+dashboardUrl=https://sonarcloud.io/dashboard?id=blog_user
+ceTaskId=AYzAXN6L4bT-Tn4kKJ1F
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYzAXN6L4bT-Tn4kKJ1F

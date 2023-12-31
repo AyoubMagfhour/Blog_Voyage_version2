@@ -1,0 +1,3 @@
+com.example.user.controller.UserController#getSuperuserByEmail(Ljava/lang/String;)Lcom/example/user/entities/User;
+==
+findByEmail com.example.user.service.UserService#findByEmail(Ljava/lang/String;)Lcom/example/user/entities/User;

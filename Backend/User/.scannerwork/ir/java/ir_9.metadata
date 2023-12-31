@@ -1,0 +1,3 @@
+com.example.user.controller.UserController#createUser(Lcom/example/user/entities/User;)LResponseEntity;
+==
+createUser com.example.user.service.UserService#createUser(Lcom/example/user/entities/User;)Lcom/example/user/entities/User;

@@ -1,0 +1,63 @@
+
+rcom.example.user.controller.UserController#getSuperuserByEmail(Ljava/lang/String;)Lcom/example/user/entities/User;n
+d/C:/Users/ayoub/Desktop/backfinal/User/src/main/java/com/example/user/controller/UserController.java> >(#"startingBlock*­
+startingBlock># >(?„
+
+= =(
+%2"
+__annotate**
+
+__unknown_file (
+
+GetMapping*7
+
+__unknown_file (
+
+emailjava.lang.String†
+ƒ
+>$ >(1
+%3"
+__annotate*,
+
+__unknown_file (
+RequestParam*7
+
+__unknown_file (
+
+emailjava.lang.String}
+{
+>9 >(>
+emailjava.lang.String"__annotation*"
+
+__unknown_file (
+
+%2*"
+
+__unknown_file (
+
+%3*
+1* 
+1? ?(œ
+™
+? ?(*
+%0$com.example.user.service.UserService"__id*[
+
+__unknown_file (?*=,
+*com.example.user.controller.UserController"
+userService½º
+? ?(-$
+%1com.example.user.entities.User"dcom.example.user.service.UserService#findByEmail(Ljava/lang/String;)Lcom/example/user/entities/User;*H
+
+__unknown_file (,
+*
+%0$com.example.user.service.UserService*7
+
+__unknown_file (
+
+emailjava.lang.String2findByEmail(Ljava/lang/String;)"2
+? ?(.&
+$
+%1com.example.user.entities.User:%
+>$ >(>
+emailjava.lang.StringB.,
+*com.example.user.controller.UserControllerH

@@ -1,0 +1,5 @@
+com.example.user.controller.UserController#updateUser(Ljava/lang/Long;Lcom/example/user/entities/User;)LResponseEntity;
+java.util.Optional#ofNullable(Ljava/lang/Object;)Ljava/util/Optional;
+java.util.Optional#map(Ljava/util/function/Function;)Ljava/util/Optional;
+==
+updateUser com.example.user.service.UserService#updateUser(Ljava/lang/Long;Lcom/example/user/entities/User;)Lcom/example/user/entities/User;

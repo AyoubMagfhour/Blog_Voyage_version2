@@ -1,0 +1,3 @@
+com.example.user.service.UserService#authenticateSuperuser(Ljava/lang/String;Ljava/lang/String;)Lcom/example/user/entities/User;
+==
+findByEmail com.example.user.repository.UserRepository#findByEmail(Ljava/lang/String;)Lcom/example/user/entities/User;
